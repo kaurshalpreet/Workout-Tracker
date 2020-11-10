@@ -29,7 +29,7 @@ When the user loads the page, they will be given the option to create a new work
  [The link to the deployed app to Heroku](https://sheltered-coast-41769.herokuapp.com/)
 
 
-A Screenshot of the app is shown below.
+Screenshots of the app is shown below.
 ![Sample Screenshot](./screenshots/screenshot2.png)
 <br>
 ![Sample Screenshot](./screenshots/screenshot1.png)
